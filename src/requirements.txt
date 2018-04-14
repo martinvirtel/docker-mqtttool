@@ -1,0 +1,2 @@
+git+git://github.com/martinvirtel/python-mqttcat.git@bf575d3cfa899ff5b96950958059fde84d6c2ada
+
