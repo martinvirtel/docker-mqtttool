@@ -7,9 +7,9 @@ This repository offers a docker container that can be used to publish, receive, 
 
 Docker and Make
 
-## Walkthrough
+## Walk-through
 
-Please see the Makefile for how this works behind the scenes. Here's the walkthrough:
+Please see the Makefile for how this works behind the scenes. Here's the walk-through:
 
 1) `make build` - builds the MQTTtool container. 
 
